@@ -13,7 +13,7 @@ The image below shows the reconstruction of lost audio signals with four differe
 ## Demo Audio
 
 ### Original Audio
-[label](audio/original.wav)
+[label](audio/original.mp4)
 
 ### Dropped Audio
 [label](audio/stegoAudioDropped.wav)
