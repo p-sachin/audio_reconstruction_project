@@ -13,7 +13,10 @@ The image below shows the reconstruction of lost audio signals with four differe
 ## Demo Audio
 
 ### Original Audio
-[label](audio/original.mp4)
+
+https://user-images.githubusercontent.com/91117093/205602462-c61c9db8-b571-416c-9073-40c5c2eb0f68.mp4
+
+
 
 ### Dropped Audio
 [label](audio/stegoAudioDropped.wav)
