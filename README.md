@@ -13,4 +13,19 @@ The image below shows the reconstruction of lost audio signals with four differe
 ## Demo Audio
 
 ### Original Audio
-[label](../../../../../../c:/Users/Ellefson/Documents/GitHub/audio_reconstruction_project/audio/original.wav)
+[label](audio/original.wav)
+
+### Dropped Audio
+[label](audio/stegoAudioDropped.wav)
+
+### Stego Reconstruction
+[label](audio/StegoreconstructedAudio.wav)
+
+### Random Forest Reconstruction
+[label](audio/reconstructedRF.wav)
+
+### SVR Reconstruction
+[label](audio/reconstructedSVR.wav)
+
+### LSTM Reconstruction
+[label](audio/reconstructedLSTM.wav)
