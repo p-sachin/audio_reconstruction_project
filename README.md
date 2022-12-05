@@ -12,4 +12,5 @@ The image below shows the reconstruction of lost audio signals with four differe
 
 ## Demo Audio
 
-# Original Audio
+### Original Audio
+[label](../../../../../../c:/Users/Ellefson/Documents/GitHub/audio_reconstruction_project/audio/original.wav)
